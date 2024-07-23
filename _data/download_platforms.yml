@@ -92,3 +92,10 @@
   caption: "Standard (x86_64)"
   tags:
     - 64 bit
+
+- name: "windows.arm64"
+  title: "Windows"
+  caption: "Standard (ARM64)"
+  tags:
+    - ARM64
+    - 64 bit
